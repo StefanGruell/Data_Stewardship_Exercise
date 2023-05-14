@@ -66,7 +66,7 @@ def plot_graph(country_name, data_x, data_y):
 
 
 def write_csv(data):
-    with open('data/results.csv', 'w', newline='') as result_file:
+    with open('../results/results.csv', 'w', newline='') as result_file:
         writer = csv.writer(result_file)
         fields = ['country', 'correlation']
         writer.writerow(fields)
@@ -75,8 +75,8 @@ def write_csv(data):
 
 
 if __name__ == '__main__':
-    gdp_list = read_data('data/gpd_countries.csv')
-    production_list = read_data('data/asparagus_production.csv')
+    gdp_list = read_data('../data/gpd_countries.csv')
+    production_list = read_data('../data/asparagus_production.csv')
     gdp_list = filter_gdp_data(gdp_list)
     production_list = filter_asparagus_data(production_list)
     matching_countries = []

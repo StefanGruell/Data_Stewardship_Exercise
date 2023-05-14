@@ -13,6 +13,8 @@ To run the code you need to have access to a machine running python 3.X. It was 
 
 # Digital Object Identifier (DOI).
 
+[![DOI](https://zenodo.org/badge/640488371.svg)](https://zenodo.org/badge/latestdoi/640488371)
+
 
 
 # License

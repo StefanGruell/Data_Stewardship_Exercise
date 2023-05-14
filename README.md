@@ -1,4 +1,4 @@
-# Correlating Movies score and Unemployed rate
+# Correlating change in asparagus plant area to gdp growth
 
 This project aims to explore the connection between the change in area used to plant asparagus and the gdp growth for the G20 countries including Austria for the years 2010 till 2021.
 

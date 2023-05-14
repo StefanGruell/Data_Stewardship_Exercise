@@ -15,4 +15,5 @@ To run the code you need to have access to a machine running python 3.X. It was 
 
 
 
-# license
+# License
+CC BY-NC-SA

@@ -19,7 +19,7 @@ DMP [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7934356.svg)](https://do
 
 ## Flowchart
 
-
+![Flowchart Diagram](https://github.com/StefanGruell/Data_Stewardship_Exercise/blob/master/documentation/flowchart.png?raw=true "Flowchart")
 
 ## License
 

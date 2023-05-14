@@ -65,6 +65,15 @@ def plot_graph(country_name, data_x, data_y):
     plt.show()
 
 
+def write_csv(data):
+    with open('data/results.csv', 'w', newline='') as result_file:
+        writer = csv.writer(result_file)
+        fields = ['country', 'correlation']
+        writer.writerow(fields)
+        for row in data.items():
+            writer.writerow(row)
+
+
 if __name__ == '__main__':
     gdp_list = read_data('data/gpd_countries.csv')
     production_list = read_data('data/asparagus_production.csv')
@@ -94,3 +103,4 @@ if __name__ == '__main__':
                 same_growth = same_growth + 1
         plot_graph(country, data_x, data_y)
         same_growth_dict[country] = same_growth / 11
+    write_csv(same_growth_dict)

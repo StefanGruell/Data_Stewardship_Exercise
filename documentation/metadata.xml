@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Asparagus plant area and GDP of G20 including Austria</dc:title>
+<dc:creator>Stefan Grüll (https://orcid.org/0009-0006-4020-8166)</dc:creator>
+<dc:subject>Correlating change in asparagus plant area to gdp growth</dc:subject>
+<dc:description>Automated tool that computes the correlation between the change in asparagus plant area and the gdp growth of the G20 states including Austria from 2010 to 2021.</dc:description>
+<dc:date>14.05.2023</dc:date>
+<dc:type>DataGeneration</dc:type>
+<dc:format>Python</dc:format>
+<dc:source>Asparagas plant area (2010-2021)</dc:source>
+<dc:source>GDP (2010-2021)</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>2010 - 2021</dc:coverage>
+<dc:rights>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</dc:rights>
+
+</metadata>

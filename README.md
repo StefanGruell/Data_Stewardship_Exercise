@@ -13,8 +13,9 @@ To run the code you need to have access to a machine running python 3.X. It was 
 
 ## Digital Object Identifier (DOI).
 
-Source code [![DOI](https://zenodo.org/badge/640488371.svg)](https://zenodo.org/badge/latestdoi/640488371)
-Results [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7934372.svg)](https://doi.org/10.5281/zenodo.7934372)
+Source code [![DOI](https://zenodo.org/badge/640488371.svg)](https://zenodo.org/badge/latestdoi/640488371)  
+Results correlation [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7934372.svg)](https://doi.org/10.5281/zenodo.7934372)  
+Results diagrams [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7934423.svg)](https://doi.org/10.5281/zenodo.7934423)  
 DMP [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7934356.svg)](https://doi.org/10.5281/zenodo.7934356) 
 
 ## Flowchart

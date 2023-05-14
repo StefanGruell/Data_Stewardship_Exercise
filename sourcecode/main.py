@@ -62,8 +62,8 @@ def plot_graph(country_name, data_x, data_y):
     ax2.plot(years, data_y[country_name], color=color)
 
     fig.tight_layout()
-    plt.show()
     plt.savefig('../results/' + country_name + '_result.png')
+    plt.show()
 
 
 def write_csv(data):

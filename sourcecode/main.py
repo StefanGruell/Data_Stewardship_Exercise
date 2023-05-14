@@ -63,6 +63,7 @@ def plot_graph(country_name, data_x, data_y):
 
     fig.tight_layout()
     plt.show()
+    plt.savefig('../results/' + country_name + '_result.png')
 
 
 def write_csv(data):
